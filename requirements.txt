@@ -1,0 +1,4 @@
+groq
+pydub
+yt_dlp
+streamlit
