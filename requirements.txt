@@ -5,5 +5,5 @@ streamlit
 time
 gc
 os
-dotenv
+python-dotenv
 tempfile
