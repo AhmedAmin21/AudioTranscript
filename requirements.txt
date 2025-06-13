@@ -2,8 +2,5 @@ groq
 pydub
 yt_dlp
 streamlit
-time
-gc
-os
 python-dotenv
-tempfile
+
